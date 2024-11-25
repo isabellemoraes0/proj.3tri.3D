@@ -10,8 +10,4 @@ footer {text-align: center;}
 
 #ima1 {margin-left: 40%;}
 
-.p1 {margin-left: 10%;
-    margin-right: 10%;
-    padding-top: 2%;
-    padding-bottom: 2%;}
-    @media only screen and (max-width: 600px) {
+.p1 {margin: 5%;}

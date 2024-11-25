@@ -10,4 +10,11 @@ footer {text-align: center;}
 
 #ima1 {margin-left: 40%;}
 
-.p1 {margin: 5%;}
+.p2 {text-align: center;
+    background-color: rgb(194, 159, 64);
+    border-color: #815709;
+    border-width: 6px;
+    border-style:outset;
+    padding-bottom: 1%;}
+    @media only screen and (max-width: 600px) {
+      }
